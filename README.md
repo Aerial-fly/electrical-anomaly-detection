@@ -21,4 +21,4 @@ Compare the performance of two different algorithms in detecting abnormal electr
 This project produces an interactive comparison graph and Venn Diagram to map the agreement between the two models.
 
 ---
-*Created as a Final Assignment / Research Project for the Course [Your Course Name].*
+*Created as a research Project by Aerial.*
